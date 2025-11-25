@@ -14,7 +14,7 @@ Highlights:
 - Professional model for PE interviews.
 ---
 
-## 🔹 Stegra Green Steel – Sustainable Infrastructure Finance (2025)
+## 🔹 RSM Impact Investing Competition - Stegra Green Steel – Sustainable Infrastructure Finance (2025)
 **Repository:**  
 👉 [Stegra Green Steel Finance Project](https://github.com/schlegel-notes/green-steel-finance-project)
 
