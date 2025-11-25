@@ -27,7 +27,7 @@ Highlights:
 
 ## 🏆 WHU–Commerzbank M&A Case Competition – 1st Place (Jun 2025)
 **Repository:**  
-👉 [WHU M&A Case Finance Project](https://github.com/schlegel-notes/whu-ma-case)  
+👉 [WHU M&A Case Finance Project](https://github.com/stan-schlegel/whu-ma-case.git)
 
 Highlights:
 - Built **DCF valuation** and **trading & transaction multiples** for a packaging machinery company.  
