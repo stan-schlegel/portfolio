@@ -25,14 +25,24 @@ Highlights:
 - Bankability report + investor deck.
 ---
 
-## 🔹 Third Project (Name)
+## 🏆 WHU–Commerzbank M&A Case Competition – 1st Place (Jun 2025)
 **Repository:**  
-👉 [Link to Repo](https://github.com/schlegel-notes/YOUR-THIRD-REPO)
+👉 [WHU M&A Case Finance Project](https://github.com/schlegel-notes/whu-ma-case)  
 
 Highlights:
-- Short description
-- Key results
-- Model type
+- Built **DCF valuation** and **trading & transaction multiples** for a packaging machinery company.  
+- Created a compelling **equity story** for a sell-side mandate.
+- Delivered professional **M&A pitch deck** used in the final judging round.
+- Integrated peer analysis, transaction benchmarks, and intrinsic valuation.
+- Team achieved **1st place** among WHU MBA teams.
+
+---
+# ⚠️ Disclaimer
+
+This portfolio contains **only academic work** produced as part of MBA Case Competitions.  
+All financial figures are **case-based or publicly available**, not real confidential company information.  
+Model files and valuations are for **educational demonstration only** and **must not be used for any investment purpose**.
+
 ---
 
 ## 📬 Contact
